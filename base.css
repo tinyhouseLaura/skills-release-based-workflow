@@ -27,9 +27,8 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
-}
 body {
-	/* Add background-color declaration here */
+    background-color: black;
 }
 ol, ul {
 	list-style: none;
